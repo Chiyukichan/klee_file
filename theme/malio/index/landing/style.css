@@ -605,7 +605,7 @@ footer .container {
 
 footer:after {
 	content: ' ';
-	background-image: linear-gradient(to right, #ff6caa, #F19EC2);
+	background-image: linear-gradient(to right, #4eb5ff, #9edef1);
 	transform: skewY(-4deg);
 	z-index: 1;
 	position: absolute;
