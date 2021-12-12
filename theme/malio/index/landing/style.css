@@ -220,7 +220,7 @@ body {
 .section-design:after,
 .hero:after {
 	content: ' ';
-	background-image: linear-gradient(to bottom, #ff6caa, #F19EC2);
+	background-image: linear-gradient(to bottom, #4eb5ff, #9edef1);
 	position: absolute;
 	border-radius: 50% 0 0 50%;
 	top: -180px;
@@ -594,7 +594,7 @@ footer {
 	letter-spacing: 2px;
 	font-size: 10px;
 	position: relative;
-	background-image: linear-gradient(to right, #ff6caa, #F19EC2);
+	background-image: linear-gradient(to right, #4eb5ff, #9edef1);
 	color: #fff;
 }
 
@@ -882,7 +882,7 @@ footer ul li a:hover {
 }
 
 .bg-gr {
-	background-image: linear-gradient(to right, #ff6caa, #F19EC2);	
+	background-image: linear-gradient(to right, #4eb5ff, #9edef1);	
 }
 
 .btn-white {
